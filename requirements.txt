@@ -1,0 +1,9 @@
+wheel
+PyYAML
+numpy
+torch==1.9.0
+torchvision==0.10.0
+tqdm
+scikit-image==0.18.1
+opencv-python==4.5.3.56
+lpips==0.1.3
